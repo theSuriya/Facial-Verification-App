@@ -22,7 +22,6 @@ OpenCV
 
 
 
+## Screenshots
 
-
-
-![App Screenshot](kivyapp.png)
+![App Screenshot](appkivy.png)
