@@ -7,7 +7,7 @@
 --bash
 
 
-git clone https://github.com/your-username/your-repository.git](https://github.com/theSuriya/Facial-Verification.git
+git clone https://github.com/theSuriya/Facial-Verification.git
 cd your-repository
 
 
