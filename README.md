@@ -1,1 +1,1 @@
-![App Screenshot](appkivy.png)
+![App Screenshot](kivyapp.png)
