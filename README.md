@@ -5,21 +5,22 @@
 ### 1. Clone the Repository
 
 --bash
+
+
 git clone https://github.com/your-username/your-repository.git](https://github.com/theSuriya/Facial-Verification.git
 cd your-repository
 
 
-Tools Used:
+### Tools Used:
 
-TensorFlow
-Kivy framework
-Python
-NumPy
-Matplotlib
-OpenCV
+1. TensorFlow
+2. Kivy framework
+3. Python
+4. NumPy
+5. Matplotlib
+6. OpenCV
 
 
-
-## Screenshots
+### Screenshots
 
 ![App Screenshot](app.png)
