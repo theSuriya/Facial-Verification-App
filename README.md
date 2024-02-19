@@ -31,9 +31,15 @@ Ensure you have the following prerequisites installed:
 
 Clone the repository and install the required dependencies:
 
-  ```bash
+  ``bash
   https://github.com/theSuriya/Facial-Verification-App.git
+
   cd your-repository
+
   pip install -r requirements.txt
+
+### Screenshots
+
+![App Screenshot](app.png)
 
 
