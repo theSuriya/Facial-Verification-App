@@ -19,10 +19,15 @@ This project utilizes a Siamese Neural Network to perform facial verification, a
 
 Ensure you have the following prerequisites installed:
 
-- Python (version x.x.x)
-- TensorFlow (version x.x.x)
-- matplotlib (version x.x.x)
-- OpenCV (version x.x.x)
+- Python 3.11.7
+- TensorFlow 2.10.0
+- Tensorflow-gpu 2.10.0(optional)
+- matplotlib 
+- OpenCV
+  
+### Screenshots
+
+![App Screenshot](app.png)
 
 ## Installation
 
@@ -34,6 +39,3 @@ $ cd your-repository
 $ pip install -r requirements.txt
 
 
-### Screenshots
-
-![App Screenshot](app.png)
