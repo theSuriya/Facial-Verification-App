@@ -26,20 +26,16 @@ Ensure you have the following prerequisites installed:
 - OpenCV
 - Kivy 
   
-
 ## Installation
 
-Clone the repository and install the required dependencies:
+1. Clone the repository:
 
-  ``bash
-  https://github.com/theSuriya/Facial-Verification-App.git
+   ```bash
+   https://github.com/theSuriya/Facial-Verification-App.git
+   cd your-repository
+   pip install -r requirements.txt
 
-  cd your-repository
-
-  pip install -r requirements.txt
-
-### Screenshots
+## Screenshots
 
 ![App Screenshot](app.png)
-
 
