@@ -5,7 +5,7 @@ A facial verification project using a Siamese Neural Network, implemented in Pyt
 
 ## Introduction
 
-This project utilizes a Siamese Neural Network to perform facial verification, allowing users to verify whether two faces belong to the same person or not. The implementation is based on Python, TensorFlow for neural network development, matplotlib for visualization, and OpenCV for image processing.
+This project utilizes a Siamese Neural Network to perform facial verification, allowing users to verify whether two faces belong to the same person or not. The implementation is based on Python, TensorFlow for neural network development, matplotlib for visualization, and OpenCV for image processing. Additionally, it includes a user-friendly app built with Kivy.
 
 ## Features
 
@@ -24,19 +24,16 @@ Ensure you have the following prerequisites installed:
 - Tensorflow-gpu 2.10.0(optional)
 - matplotlib 
 - OpenCV
-- Kivy (for application)
+- Kivy 
   
-### Screenshots
-
-![App Screenshot](app.png)
 
 ## Installation
 
 Clone the repository and install the required dependencies:
 
-```bash
-$ git clone https://github.com/your-username/your-repository.git
-$ cd your-repository
-$ pip install -r requirements.txt
+  ```bash
+  https://github.com/theSuriya/Facial-Verification-App.git
+  cd your-repository
+  pip install -r requirements.txt
 
 
