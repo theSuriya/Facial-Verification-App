@@ -24,6 +24,7 @@ Ensure you have the following prerequisites installed:
 - Tensorflow-gpu 2.10.0(optional)
 - matplotlib 
 - OpenCV
+- Kivy (for application)
   
 ### Screenshots
 
